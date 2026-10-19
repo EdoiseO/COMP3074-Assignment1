@@ -1,0 +1,17 @@
+.gradle/
+.kotlin/
+.idea/
+*.iml
+**/build/
+local.properties
+.DS_Store
+*.apk
+*.aab
+*.pdf
+*.zip
+*.mp4
+*.mov
+docs/
+outputs/
+*.md
+!README.md

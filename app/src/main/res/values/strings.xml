@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Payroll Calculator</string>
+    <string name="about_title">About</string>
+    <string name="intro">Enter your hours, hourly rate and tax rate to calculate your pay.</string>
+    <string name="hours_label">Hours worked</string>
+    <string name="hours_hint">For example, 45</string>
+    <string name="rate_label">Hourly rate ($)</string>
+    <string name="rate_hint">For example, 20.00</string>
+    <string name="tax_label">Tax rate (decimal)</string>
+    <string name="tax_hint">For example, 0.15</string>
+    <string name="tax_help" formatted="false">Use 0.15 for 15%. Tax applies to regular pay, as specified in the assignment.</string>
+    <string name="calculate">Calculate pay</string>
+    <string name="results_title">Your pay</string>
+    <string name="regular_result">Pay: %1$s</string>
+    <string name="overtime_result">Overtime pay: %1$s</string>
+    <string name="total_result">Total pay: %1$s</string>
+    <string name="tax_result">Tax: %1$s</string>
+    <string name="result_placeholder">—</string>
+    <string name="error_number">Enter a valid number (zero or greater).</string>
+    <string name="error_tax">Enter a decimal between 0 and 1, such as 0.15.</string>
+    <string name="about_button">About</string>
+    <string name="student_name">Phillip Onofua</string>
+    <string name="student_id">Student ID: 101489064</string>
+    <string name="course">COMP3074 • Assignment 1</string>
+    <string name="about_description">Payroll Calculator computes regular pay for up to 40 hours and overtime at 1.5 times the hourly rate.</string>
+</resources>
